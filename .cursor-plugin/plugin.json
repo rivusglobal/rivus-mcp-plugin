@@ -1,0 +1,11 @@
+{
+  "name": "rivus",
+  "displayName": "Rivus",
+  "version": "0.1.0",
+  "description": "Connect Cursor to the hosted Rivus MCP server: alpha research, ML research, strategy backtests, and paper trading.",
+  "homepage": "https://rivus.global",
+  "repository": "https://github.com/rivusglobal/rivus-mcp-plugin",
+  "license": "MIT",
+  "logo": "assets/logo.svg",
+  "mcpServers": "./.mcp.json"
+}

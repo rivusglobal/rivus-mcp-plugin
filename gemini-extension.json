@@ -1,0 +1,8 @@
+{
+  "name": "rivus",
+  "version": "0.1.0",
+  "description": "Hosted Rivus MCP server: alpha research, ML research, strategy backtests, and paper trading.",
+  "mcpServers": {
+    "rivus": { "httpUrl": "https://mcp.rivus.global/mcp/" }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "rivus",
+  "version": "0.1.0",
+  "description": "Connect Codex to the hosted Rivus MCP server: alpha research, ML research, strategy backtests, and paper trading.",
+  "homepage": "https://rivus.global",
+  "repository": "https://github.com/rivusglobal/rivus-mcp-plugin",
+  "license": "MIT",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Rivus",
+    "shortDescription": "Quant research and trading via Rivus MCP",
+    "composerIcon": "./assets/logo.svg",
+    "logo": "./assets/logo.svg"
+  }
+}

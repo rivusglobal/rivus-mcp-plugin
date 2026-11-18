@@ -1,0 +1,7 @@
+{
+  "name": "rivus",
+  "owner": { "name": "Rivus" },
+  "plugins": [
+    { "name": "rivus", "source": "./", "description": "Hosted Rivus MCP server for Claude Code." }
+  ]
+}
